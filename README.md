@@ -25,4 +25,4 @@ Please ensure the font file and the script is readable by the PHP runtime user!
 
 ## Disclaimer
 
-This script is provided as-is, and without warranties. It includes only the image generation system. You'll need to provide your own backend and frontend implementations for this script to actually function as captcha.
+This script is provided as-is, and without warranties. It includes only the image generation system. Sample form is provided, but you'll have to make your own backend and frontend implementations for this script to fully function as captcha. 
